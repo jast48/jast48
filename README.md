@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Oleksii Bakshalov Banner" style="border-radius: 12px; margin-bottom: 20px;" />
-
 # 👋 Hi there, I'm Oleksii Bakshalov!
 
 ### 🚀 AI Engineer • Algorithmic Trader • Full-Stack Python Developer
