@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="130" height="130" alt="Oleksii Bakshalov Avatar" style="border-radius: 50%; border: 3px solid #0066FF; box-shadow: 0 4px 15px rgba(0,102,255,0.25); margin-bottom: 10px;" />
+<img src="assets/avatar.png" width="160" height="160" alt="Oleksii Bakshalov" style="border-radius: 50%; object-fit: cover; border: 3px solid #0066FF; box-shadow: 0 4px 20px rgba(0,102,255,0.3); margin-bottom: 12px;" />
 
 # 👋 Hi there, I'm Oleksii Bakshalov!
 
