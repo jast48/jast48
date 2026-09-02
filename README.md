@@ -85,6 +85,7 @@
 
 ### 📬 Connect With Me
 
+[![Telegram](https://img.shields.io/badge/Telegram-@jast48-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jast48)
 [![GitHub](https://img.shields.io/badge/GitHub-jast48-181717?style=for-the-badge&logo=github)](https://github.com/jast48)
 [![Binance](https://img.shields.io/badge/Trading%20Bot-NeuroTrade-F0B90B?style=for-the-badge&logo=binance&logoColor=black)](https://github.com/jast48/neurotrade-bot)
 
