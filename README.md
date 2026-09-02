@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/avatar.png" width="160" height="160" alt="Oleksii Bakshalov" style="border-radius: 50%; object-fit: cover; border: 3px solid #0066FF; box-shadow: 0 4px 20px rgba(0,102,255,0.3); margin-bottom: 12px;" />
+<img src="https://raw.githubusercontent.com/jast48/jast48/main/assets/my_photo.png?v=2" width="160" height="160" alt="Oleksii Bakshalov" style="border-radius: 50%; object-fit: cover; border: 3px solid #0066FF; box-shadow: 0 4px 20px rgba(0,102,255,0.3); margin-bottom: 12px;" />
 
 # 👋 Hi there, I'm Oleksii Bakshalov!
 
@@ -19,7 +19,7 @@
 <br/>
 
 <a href="assets/1_Million_Prompters_Certificate_Oleksii_Bakshalov.pdf">
-  <img src="assets/1_Million_Prompters_Certificate_Oleksii_Bakshalov.png" width="750" alt="1 Million Prompters Certificate — Oleksii Bakshalov" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+  <img src="https://raw.githubusercontent.com/jast48/jast48/main/assets/1_Million_Prompters_Certificate_Oleksii_Bakshalov.png?v=2" width="750" alt="1 Million Prompters Certificate — Oleksii Bakshalov" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
 </a>
 
 <br/>
